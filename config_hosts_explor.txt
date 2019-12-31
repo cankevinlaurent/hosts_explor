@@ -1,0 +1,18 @@
+##############################################################################
+# Config file: config_hosts_explor
+##############################################################################
+# MUST RESTART SERVICE TO RELOAD CONFIG
+
+#where this program locates
+location = sh
+
+#subnet url, where to get subnets
+subnet_url = https://10.128.19.22:20501
+
+#listen port
+port = 20502
+
+#authentication
+#username and password
+username = admin
+password = ctshitoc
